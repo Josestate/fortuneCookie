@@ -1,0 +1,12 @@
+#root{
+    height: 100%;
+    main{
+        height: 100%;
+        display: grid;
+        align-items: center;
+        text-align: center;
+        h1{
+            margin: 0;
+        }
+    }
+}

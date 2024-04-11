@@ -1,0 +1,9 @@
+section{
+    height: 200px;
+    display: grid;
+    align-items: center;
+    background: #ffffffc2;
+    width: 50%;
+    margin: auto;
+    border-radius: 100% 0% / 25% 50%;
+}
